@@ -9,3 +9,5 @@ G
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 F
 contracts/staking.clar,0/4/04e6d8a0b693401a319e2ebf6f1abab8520c9ae4
+E
+tests/staking.test.ts,3/c/3c23be3f3575e9aa61d507141535acd958fbc551

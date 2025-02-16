@@ -3,3 +3,7 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 H
 contracts/data-feed.clar,2/d/2d85564311a485e089866222639200b742810528
+G
+tests/data-feed.test.ts,8/a/8a1631a6c3b848f97a58fc032f4771cf20f8e6dd
+@
+vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
